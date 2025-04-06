@@ -27,6 +27,7 @@ function setCss() {
   });
 
   $('.linkflairlabel a').remove();
+  buttons.last().remove();
 }
 
 $(document).ready(function() {
