@@ -3,9 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       *://www.reddit.com/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      -
-// @description 11/12/2024, 9:43:01 PM
+// @description 06/04/2025, 22:55
 // ==/UserScript==
 
 //this.$ = this.jQuery = jQuery.noConflict(true);
