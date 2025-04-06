@@ -4,7 +4,7 @@
 // @match       *://www.reddit.com/*
 // @grant       none
 // @version     1.1
-// @author      -
+// @author      Bmandk
 // @description 06/04/2025, 22:55
 // ==/UserScript==
 
