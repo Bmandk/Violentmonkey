@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       *://www.reddit.com/*
 // @grant       none
-// @version     1.2
+// @version     1.3
 // @author      Bmandk
 // @description 06/04/2025, 22:55
 // ==/UserScript==
