@@ -27,7 +27,7 @@ function setCss() {
   });
 
   $('.linkflairlabel a').remove();
-  buttons.children(':last-child').remove();
+  buttons.children(':last-child').children(':last-child').remove();
 }
 
 $(document).ready(function() {
