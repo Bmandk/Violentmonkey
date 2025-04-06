@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       *://www.reddit.com/*
 // @grant       none
-// @version     1.1
+// @version     1.2
 // @author      Bmandk
 // @description 06/04/2025, 22:55
 // ==/UserScript==
@@ -27,7 +27,7 @@ function setCss() {
   });
 
   $('.linkflairlabel a').remove();
-  buttons.last().remove();
+  buttons.children(':last-child').remove();
 }
 
 $(document).ready(function() {
